@@ -12,4 +12,4 @@ Bu imzalı bildirim adresidir; EXE bağlantısı değildir. Tesislerde GitHub he
 
 Windows kod sertifikası bulunmayan ilk adayın dosya adında DRAFT vardır. Manifest imzası ile Windows yayıncı imzası farklı kontrollerdir.
 
-Guncel kurucu: [SimNext 0.14.0 revizyon 2](https://github.com/zakeGit/SimNext-Releases/releases/download/v0.14.0-pilot.2/SimNext-Setup-0.14.0-r2-DRAFT.exe). Onceki kurucunun on kosul hatasi duzeltildi.
+Guncel kurucu: [SimNext 0.14.0 revizyon 3](https://github.com/zakeGit/SimNext-Releases/releases/download/v0.14.0-pilot.3/SimNext-Setup-0.14.0-r3-DRAFT.exe). Windows oturumunun hesabi otomatik doldurulur; onceki on kosul duzeltmesi de dahildir.
