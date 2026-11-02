@@ -12,4 +12,4 @@ Bu imzalı bildirim adresidir; EXE bağlantısı değildir. Tesislerde GitHub he
 
 Windows kod sertifikası bulunmayan ilk adayın dosya adında DRAFT vardır. Manifest imzası ile Windows yayıncı imzası farklı kontrollerdir.
 
-GÃ¼ncel kurucu: [SimNext 0.14.0 revizyon 4](https://github.com/zakeGit/SimNext-Releases/releases/download/v0.14.0-pilot.4/SimNext-Setup-0.14.0-r4-DRAFT.exe). Windows PowerShell 5.1 masaÃ¼stÃ¼ baÅŸlatÄ±cÄ±sÄ±ndaki aÃ§Ä±lÄ±ÅŸ hatasÄ± dÃ¼zeltildi; kullanÄ±cÄ± hesabÄ±nÄ±n otomatik doldurulmasÄ± ve Ã¶nceki Ã¶n koÅŸul dÃ¼zeltmeleri dahildir.
+Güncel kurucu: [SimNext 0.14.0 revizyon 4](https://github.com/zakeGit/SimNext-Releases/releases/download/v0.14.0-pilot.4/SimNext-Setup-0.14.0-r4-DRAFT.exe). Windows PowerShell 5.1 masaüstü başlatıcısındaki açılış hatası düzeltildi; kullanıcı hesabının otomatik doldurulması ve önceki ön koşul düzeltmeleri dahildir.
